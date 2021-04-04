@@ -17,4 +17,3 @@ php artisan serveはserver.phpを起動するコマンド。
 > をラップしたコマンドで、これはPHP自身が持つ「ビルトインサーバ」というWebサーバ機能を使っています。
 
 ## apach
-webサーバー
